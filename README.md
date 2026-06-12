@@ -2,6 +2,8 @@
 
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
+
+# Date: 11/7/2026
 # ALGORITHM
 
 1.	Start the program.
